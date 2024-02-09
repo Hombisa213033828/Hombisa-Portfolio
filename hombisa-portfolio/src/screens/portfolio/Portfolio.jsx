@@ -40,6 +40,40 @@ export const Portfolio =() => {
                     and business objectives. 
                 </p>
                 </div>
+                <div className="about-me">About&nbsp;&nbsp;Me</div>
+                <div className="div">HOME</div>
+                <div className="text-wrapper-2">ABOUT ME</div>
+                <div className="text-wrapper-3">JOURNEY</div>
+                <div className="text-wrapper-4">PROJECTS</div>
+                <div className="text-wrapper-5">CONTACTS</div>
+                <div className="overlap-group-2">
+                    <div className="rectangle-2" />
+                    <div className="text-wrapper-6">SQL</div>
+                    <div className="text-wrapper-7">analysis</div>
+                    <div className="text-wrapper-8">CSS</div>
+                    <div className="text-wrapper-9">Skills</div>
+                    <div className="text-wrapper-10">Html</div>
+                    <div className="text-wrapper-11">Salesfoce</div>
+                    <div className="text-wrapper-12">Academics</div>
+                    <div className="text-wrapper-13">Certificates</div>
+                    <div className="text-wrapper-14">younglings</div>
+                    <div className="text-wrapper-15">PwC</div>
+                    <div className="text-wrapper-16">CapaCiTi</div>
+                    <div className="text-wrapper-17">KZN Education</div>
+                    <div className="text-wrapper-18">CPUT</div>
+                    <div className="text-wrapper-19">WSU</div>
+                    <div className="rectangle-3" />
+                    <div className="text-wrapper-20">Experience</div>
+                    <div className="text-wrapper-21">Education</div>
+                    <div className="rectangle-4" />
+                    <div className="rectangle-5" />
+                    
+
+        
+
+                    </div>
+                </div>
+                
                 
             </div>
 
