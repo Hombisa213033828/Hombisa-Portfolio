@@ -67,7 +67,8 @@ export const Portfolio =() => {
                     <div className="text-wrapper-21">Education</div>
                     <div className="rectangle-4" />
                     <div className="rectangle-5" />
-                    
+                    <div className="text-wrapper-16">KZN EDUCATION</div>
+
 
         
 
