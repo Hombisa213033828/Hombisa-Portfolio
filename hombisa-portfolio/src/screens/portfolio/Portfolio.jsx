@@ -17,8 +17,7 @@ export const Portfolio =() => {
                 </div>
                 <div className="overlap-group">
                 <p className="with-a-strong">
-                    With a strong foundation in 
-                    both business analysis  and software development,&nbsp;&nbsp;I, <br />{""}
+                    With a strong foundation in both business analysis  and software development,&nbsp;&nbsp;I, <br />{""}
                     bring a versatile skill set that enables me to&nbsp;&nbsp;seamlessly bridge&nbsp;&nbsp;the gap between
                     <br />technical intricacies and business objectives.  My experience is rooted in optimizing
                     <br />processes and fostering effective decision-making within project management, where
@@ -41,7 +40,7 @@ export const Portfolio =() => {
                     and business objectives. 
                 </p>
                 </div>
-
+                
             </div>
 
 
