@@ -67,11 +67,29 @@ export const Portfolio =() => {
                     <div className="text-wrapper-21">Education</div>
                     <div className="rectangle-4" />
                     <div className="rectangle-5" />
-                    <div className="text-wrapper-16">KZN EDUCATION</div>
+                    <div className="text-wrapper-22">GadgetBorrow</div>
+                    <div className="rectangle-6" />
+                    <div className="text-wrapper-23">Higher a tutor</div>
+                    <img 
+                        className="img"
+                        alt="Rectangle"
+                         src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/rectangle-17.png"
+                    />
 
+                    <img 
+                        className="img"
+                        alt="Rectangle"
+                        src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/rectangle-18.png"
+                    />
 
-        
-
+                    <img 
+                        className="img"
+                        alt="Rectangle"
+                        src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/rectangle-8@2x.png"
+                    />
+                    <div className="rectangle-9" />
+                    <div className="rectangle-10" />
+                
                     </div>
                 </div>
                 
