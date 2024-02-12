@@ -712,38 +712,228 @@
     width: 1246px;
 }
 
+.portfolio .south-africa {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 482px;
+}
 
+.portfolio .text-wrapper-27 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 400px;
+}
 
+.portfolio .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 201px;
+}
 
+.portfolio .text-wrapper-29 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 335px;
+}
 
+.portfolio .overlap-3 {
+    height: 139px;
+    left: 596px;
+    position: absolute;
+    top: 335px;
+    width: 615px;
+}
 
+.portfolio .text-wrapper-30 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 0px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    width: 86px;
+}
 
+.portfolio .rectangle-25 {
+    background-color: #d9d9d9;
+    height: 95px;
+    left: 0;
+    position: absolute;
+    top: 44px;
+    width: 615px;
+}
 
+.portfolio .overlap-4 {
+    height: 322px;
+    left: 596px;
+    position: absolute;
+    top: 603px;
+    width: 457px;
+}
 
+.portfolio .text-wrapper-31 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+}
 
+.portfolio .rectangle-26 {
+    background-color: #d9d9d9;
+    height: 283px;
+    left: 0;
+    position: absolute;
+    top: 39px;
+    width: 457px;
+}
 
+.portfolio .text-wrapper-32{
+    color: #ffffff;
+    font-family: "Inika" Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 914px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top:176px;
+}  
 
+.portfolio .div-wrapper {
+    background-color: #c5b20975;
+    border-radius: 50px;
+    height: 57px;
+    left: 1072px;
+    position: absolute;
+    top: 868;
+    width: 158px;  
+}
 
+.portfolio .text-wrapper-33{
+    color: #000000;
+    font-family: "Inika" Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top:14px;
+}  
 
+.portfolio .get-in-touch-with-me {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 510px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 14px;
+}
 
+.portfolio .rectangle-27 {
+    background-color: #d9d9d9;
+    height: 95px;
+    left: 596px;
+    position: absolute;
+    top: 219px;
+    width: 289px;
+}
 
+.portfolio .rectangle-28 {
+    background-color: #d9d9d9;
+    height: 95px;
+    left: 921px;
+    position: absolute;
+    top: 219px;
+    width: 290px;
+}
 
+.portfolio .text-wrapper-34{
+    color: #ffffff;
+    font-family: "Inika" Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 595px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top:177px;
+} 
 
+.portfolio .image-5 {
+    height: 96px;
+    left: 16px;
+    object-fit: cover;
+    position: absolute;
+    top: 367px;
+    width: 82px;
+}
 
+.portfolio .image-6 {
+    height: 86px;
+    left: 2px;
+    object-fit: cover;
+    position: absolute;
+    top: 180px;
+    width: 96px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.portfolio .text-wrapper-35{
+    color: #d9d9d9;
+    font-family: "Inika" Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 523px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3831px;
+} 
 
 
 
