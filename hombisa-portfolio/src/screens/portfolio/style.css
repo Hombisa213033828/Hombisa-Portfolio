@@ -228,5 +228,524 @@
 }
 
 .portfolio .text-wrapper-10 {
-    
+     color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 618px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 548px;
 }
+
+.portfolio .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 181px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 698px;
+}
+
+ .portfolio .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 700px;
+}
+
+ .portfolio .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 181;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 447px;
+}
+
+.portfolio .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 1045;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 289px;
+    width: 169px;
+}
+
+.portfolio .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 928;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 294px;
+}
+.portfolio .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 697;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 286px;
+}
+
+
+.portfolio .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 445;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 291px;
+}
+
+.portfolio .text-wrapper-18 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 167;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 281px;
+}
+
+.portfolio .text-wrapper-19 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 38;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 284px;
+}
+
+.portfolio .reactangle-3 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 83px;
+    left: 25px;
+    position: absolute;
+    top: 182px;
+    width: 103px;
+}
+
+.portfolio .text-wrapper-20 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 0778;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 91px;
+}
+
+.portfolio .text-wrapper-21 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 82;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 91px;
+}
+
+.portfolio .reactangle-4 {
+    background-color: #120b26c7;
+    height: 944px;
+    left: 0px;
+    position: absolute;
+    top: 861px;
+    width: 1244px;
+}
+
+.portfolio .reactangle-5 {
+    background-color: #d9d9d9;
+    height: 96px;
+    left: 662px;
+    position: absolute;
+    top: 1443px;
+    width: 552px;
+}
+
+.portfolio .text-wrapper-22 {
+    color: #000000;
+    font-family: "Inika", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 804;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 1466px;
+}
+
+.portfolio .reactangle-5 {
+    background-color: #d9d9d9;
+    height: 96px;
+    left: 56px;
+    position: absolute;
+    top: 1445px;
+    width: 552px;
+}
+
+.portfolio .text-wrapper-23 {
+    color: #000000;
+    font-family: "Inika", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 186px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 1466px;
+}
+
+.portfolio .img {
+    height: 436px;
+    left: 56px;
+    object-fit: cover;
+    position: absolute;
+    top: 1009px;
+    width: 552px;
+}
+
+.portfolio .rectangle-7 {
+    height: 436px;
+    left: 662px;
+    object-fit: cover;
+    position: absolute;
+    top: 1009px;
+    width: 552px;
+}
+
+.portfolio .text-wrapper-24 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 562;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 872px;
+}
+
+.portfolio .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 624px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+}
+
+.portfolio .rectangle-8 {
+    height: 72px;
+    left: 986px;
+    position: absolute;
+    top: 828px;
+    width: 178px;
+}
+
+.portfolio .rectangle-9 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 83px;
+    left: 167px;
+    position: absolute;
+    top: 182px;
+    width: 105px;
+}
+
+.portfolio .rectangle-10 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 83px;
+    left: 490px;
+    position: absolute;
+    top: 184px;
+    width: 126px;
+}
+
+.portfolio .rectangle-11 {
+    height: 82px;
+    left: 704px;
+    position: absolute;
+    top: 191px;
+    width: 131px;
+}
+
+.portfolio .rectangle-12 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 86px;
+    left: 1075px;
+    position: absolute;
+    top: 198px;
+    width: 137px;
+}
+
+.portfolio .rectangle-13 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 83px;
+    left: 888px;
+    position: absolute;
+    top: 201px;
+    width: 137px;
+}
+
+.portfolio .rectangle-14{
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 78px;
+    left: 19px;
+    position: absolute;
+    top: 603px;
+    width: 120px;
+}
+
+.portfolio .rectangle-15 {
+    height: 72px;
+    left: 199px;
+    position: absolute;
+    top: 609px;
+    width: 122px;
+}
+
+.portfolio .rectangle-16 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 78px;
+    left: 375px;
+    position: absolute;
+    top: 609px;
+    width: 120px;
+}
+
+.portfolio .text-wrapper-26 {
+    color: #ffffff;
+    font-family: "Inika", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 367px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 698px;
+}
+
+.portfolio .rectangle-17 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 15px;
+    left: 721px;
+    position: absolute;
+    top: 564px;
+    width: 493px;
+}
+
+.portfolio .rectangle-18 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 18px;
+    left: 721px;
+    position: absolute;
+    top: 642px;
+    width: 493px;
+}
+
+.portfolio .rectangle-19 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 17px;
+    left: 721px;
+    position: absolute;
+    top: 710px;
+    width: 493px;
+}
+
+.portfolio .rectangle-20 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 18px;
+    left: 721px;
+    position: absolute;
+    top: 773px;
+    width: 493px;
+}
+
+.portfolio .rectangle-21 {
+    background-color: #d807c3;
+    border-radius: 50px;
+    height: 18px;
+    left: 721px;
+    position: absolute;
+    top: 563px;
+    width: 441px;
+}
+
+.portfolio .rectangle-22 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 18px;
+    left: 721px;
+    position: absolute;
+    top: 642px;
+    width: 357px;
+}
+
+.portfolio .rectangle-23 {
+    background-color: #d807c3;
+    border-radius: 50px;
+    height: 18px;
+    left: 721px;
+    position: absolute;
+    top: 710px;
+    width: 309px;
+}
+
+.portfolio .rectangle-24 {
+    background-color: #d807c3;
+    border-radius: 50px;
+    height: 18px;
+    left: 721px;
+    position: absolute;
+    top: 773px;
+    width: 375px;
+}
+
+.portfolio .image-2 {
+    height: 71px;
+    left: 124px;
+    object-fit: cover;
+    position: absolute;
+    top: 695px;
+    width: 71px;
+}
+
+.portfolio .image-3 {
+    height: 75px;
+    left: 221px;
+    object-fit: cover;
+    position: absolute;
+    top: 695px;
+    width: 75px;
+}
+
+.portfolio .image-4 {
+    height: 71px;
+    left: 30px;
+    object-fit: cover;
+    position: absolute;
+    top: 695px;
+    width: 62px;
+}
+
+.portfolio .IMG-removebg {
+    height: 374px;
+    left: 4px;
+    object-fit: cover;
+    position: absolute;
+    top: 61px;
+    width: 345px;
+}
+
+.portfolio .overlap-2 {
+    background-color: #120b26c7;
+    height: 966px;
+    left: 0px;
+    position: absolute;
+    top: 2840px;
+    width: 1246px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
