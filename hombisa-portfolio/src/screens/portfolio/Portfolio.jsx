@@ -89,14 +89,85 @@ export const Portfolio =() => {
                     />
                     <div className="rectangle-9" />
                     <div className="rectangle-10" />
-                
+                    <img 
+                        className="rectangle-8"
+                        alt="Rectangle"
+                        src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/rectangle-24.svg"
+                    />
+                    <div className="rectangle-12" />
+                    <div className="rectangle-13" />
+                    <div className="retangle-14"  />
+                    <img
+                        className="rectangle-15"
+                        alt="Rectangle"
+                        src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/rectangle-28.svg"
+                    />
+                    <div className="rectangle-16" />
+                    <div className="text-wrapper-26">Oracles<div/>
+                    <div className="rectangle-17" />
+                    <div className="rectangle-18" />
+                    <div className="rectangle-19" />
+                    <div className="rectangle-20" />
+                    <div className="rectangle-21" />
+                    <div className="rectangle-22" />
+                    <div className="rectangle-23" />
+                    <div className="rectangle-24" />
                     </div>
-                </div>
-                
-                
+                    <img
+                        className="image-2"
+                        alt="Image"
+                        src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/image-6.png" 
+                    />
+                    <img
+                        className="image-3"
+                        alt="Image"
+                        src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/image-7.png" 
+                    />
+                    <img
+                        className="Image-4"
+                        alt="Image"
+                        src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/image-8.png"   
+                    />
+                    <img
+                         className="IMG-removegb"
+                         alt="Img removebg"
+                         src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/img-6891-removebg-preview-2.png"
+                    />
+                    <div className="overlap-2">
+                        <div className="South-africa">South&nbsp;&nbsp;Africa</div>
+                        <div className="text-wrapper-27">Western Cape</div>
+                        <div className="text-wrapper-28">hombisadyasi@gmail.com</div>
+                        <div className="text-wrapper-29">Cape Town</div>
+                        <div className="overlap-3">
+                            <div className="text-wrapper-30">Email</div>
+                            <div className="rectangle-25" />
+                        </div>
+                        <div className="overlap-4">
+                            <div className="text-wrapper-31">Massage</div>
+                            <div className="rectangle-26" />
+                        </div>
+                        <div className="text-wrapper-32">Last Name</div>
+                        <div className="div-wrapper">
+                            <div className="text-wrapper-33">Submit</div>
+                        </div>
+                        <div className="get-in-touch-with- me">Get&nbsp;&nbsp;in touch with me</div>
+                        <div className="rectangle-27" />
+                        <div className="rectangle-28" />
+                        <div className="text-wrapper-34">First Name</div>
+                        <img
+                            className="image-5"
+                            alt="Image"
+                            src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/image-3.png"
+                        />
+                        <img 
+                            className="image-6"
+                            alt="Image"
+                         src="https://cdn.animaapp.com/projects/65c5c5d4d34cae0eb5f81d6a/releases/65c5c6d8fc48279bdac15f9a/img/img-6891-removebg-preview-4.png"
+                        />
+                    </div>
+                    <div className="text-wrapper-35">hombisadyasi@gmail.com</div>   
+                </div>   
             </div>
-
-
         </div>
-    )
-}
+    );
+};
